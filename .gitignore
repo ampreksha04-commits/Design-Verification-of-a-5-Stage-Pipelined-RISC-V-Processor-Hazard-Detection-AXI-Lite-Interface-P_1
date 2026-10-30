@@ -1,0 +1,5 @@
+sim/*.out
+sim/*.vcd
+*.jou
+*.log
+.Xil/
